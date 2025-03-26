@@ -25,7 +25,7 @@ I'm a builder, problem-solver, and passionate developer blending code with real-
 - Digital privacy (VPNs, secure wallets, privacy-first tools)
 
 ### 📫 Reach Out
-- 📧 [Email me](mailto:william.dev.contact@gmail.com)
+- 📧 [Email me](mailto:william.e.rileyjr@gmail.com)
 
 ---
 
