@@ -1,28 +1,54 @@
-## Hi there, I'm William 👋
+## Hi, I'm William 👋
 
-I'm a builder, problem-solver, and passionate developer blending code with real-world solutions. Whether it's optimizing trade strategies, crafting custom Raspberry Pi dashboards, or helping others through automation, I'm always down to explore, learn, and create.
+Python developer & systems engineer who ships small, reliable tools for analytics, automation, and edge devices (Raspberry Pi). I like clean code, clear outcomes, and dashboards that people actually use.
 
 ---
 
-### 👨‍💻 What I’m Working On
-- 📊 Refining futures trading strategies with Pine Script and custom backtesting
-- 🧠 Building Python-based tools for decision-making (weather apps, baseball stats, dashboards)
-- 🛠 Developing Raspberry Pi interfaces with real-world functionality
+### 🔧 What I’m Working On (work-facing)
+- Automating **data pipelines & lightweight APIs** in Python (FastAPI, pandas)
+- Building **time-series analytics/backtesting** engines (Pine Script → Python reports)
+- Shipping **internal dashboards** (Tkinter or React/Tailwind) for ops & decision-making
+- Running **Pi-based services** with logging, health checks, and systemd units
+
+---
+
+### 📌 Selected Projects
+- **MLB Series Tracker** – ETL from public APIs → Google Sheets; sweep alerts & team KPIs  
+- **Strategy Analyzer** – Normalize TradingView signals, batch backtests, exportable reports  
+- **Family Ops Dashboard (Pi)** – Weather, calendar, chores; offline-friendly & resilient
+
+> *DM for code samples or see pinned repos.*
+
+---
+
+### 🧰 Skills
+**Languages:** Python, Bash, SQL, Pine Script  
+**Data:** pandas, NumPy, Polars, Matplotlib, Google Sheets API  
+**Backend:** FastAPI, Flask, REST, cron/systemd, Docker (basics)  
+**UI:** React + Tailwind, Tkinter, lightweight Pygame UIs  
+**Infra:** Linux, Git, CI/CD, Raspberry Pi, Azure Fundamentals
+
+---
 
 ### 🌱 Currently Learning
-- Advanced algorithmic trading (risk models, volatility filters)
-- React + Tailwind for cleaner, modern frontend dashboards
+- Risk models & **volatility filters** for time-series analytics  
+- **React + Tailwind** production patterns & component systems  
+- **Azure** (AZ-900 → serverless & data services)
 
-### 🤝 Let’s Collaborate On
-- Smart home dashboards or Raspberry Pi GUI projects
-- Trading and finance utilities with Python or Pine Script
-- Projects that combine code, automation, and creativity
+---
+
+### 🤝 Open to Collaborate On
+- Python automation/ETL and internal tooling  
+- Lightweight dashboards (web or desktop) and device integrations  
+- Finance/sports analytics where **explainability** matters
+
+---
 
 ### 💬 Ask Me About
-- Python scripting & GUI development (Tkinter, Pygame)
-- Pine Script & trading automation
-- Raspberry Pi integrations (hardware/software combos)
-- Digital privacy (VPNs, secure wallets, privacy-first tools)
+- Python scripting, packaging, and “small tools that stick”  
+- Designing **trustworthy backtests**  
+- Raspberry Pi services & hardware integrations  
+- Privacy-respecting workflows (VPNs, keys, wallets)
 
 ### 📫 Reach Out
 - 📧 [Email me](mailto:william.e.rileyjr@gmail.com)
