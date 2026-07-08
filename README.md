@@ -1,54 +1,34 @@
 ## Hi, I'm William
 
-Python developer & systems engineer who ships small, reliable tools for analytics, automation, and edge devices (Raspberry Pi). I like clean code, clear outcomes, and dashboards that people actually use.
+Senior systems administrator with 15 years across enterprise infrastructure, storage, and data protection. Currently pivoting into cloud engineering by migrating a personal analytics platform onto AWS in public, one weekend at a time.
 
 ---
 
-###  What I’m Working On (work-facing)
-- Automating **data pipelines & lightweight APIs** in Python (FastAPI, pandas)
-- Building **time-series analytics/backtesting** engines (Pine Script → Python reports)
-- Shipping **internal dashboards** (Tkinter or React/Tailwind) for ops & decision-making
-- Running **Pi-based services** with logging, health checks, and systemd units
-
----
-
-###  Selected Projects
-- **MLB Series Tracker** – ETL from public APIs → Google Sheets; sweep alerts & team KPIs  
-- **Strategy Analyzer** – Normalize TradingView signals, batch backtests, exportable reports  
-- **Family Ops Dashboard (Pi)** – Weather, calendar, chores; offline-friendly & resilient
-
-> *DM for code samples or see pinned repos.*
-
----
-
-###  Skills
-**Languages:** Python, Bash, SQL, Pine Script  
-**Data:** pandas, NumPy, Polars, Matplotlib, Google Sheets API  
-**Backend:** FastAPI, Flask, REST, cron/systemd, Docker (basics)  
-**UI:** React + Tailwind, Tkinter, lightweight Pygame UIs  
-**Infra:** Linux, Git, CI/CD, Raspberry Pi, Azure Fundamentals
+###  What I’m Building (work-facing)
+mlb-engine-aws — Migrating a production Streamlit analytics app off Streamlit Cloud and Supabase, onto AWS (S3, RDS PostgreSQL, ECS Fargate, Lambda). All infrastructure as code via Terraform. Studying for AWS Solutions Architect Associate as a side effect. (in progress)
+lb-market-engine — The application being migrated. Monte Carlo simulation of MLB player props with weather-adjusted physics modeling. Live at moneyloser.streamlit.app.
+Ops tooling and automation — PowerShell and Python scripts for infrastructure work: inventory collection, backup validation, patch orchestration.
 
 ---
 
 ###  Currently Learning
-- Risk models & **volatility filters** for time-series analytics  
-- **React + Tailwind** production patterns & component systems  
-- **Azure** (AZ-900 → serverless & data services)
+AWS Solutions Architect Associate (SAA-C03) — target sit date Q3 2026
+Terraform for production infrastructure
+Container orchestration on ECS Fargate
 
 ---
 
-###  Open to Collaborate On
-- Python automation/ETL and internal tooling  
-- Lightweight dashboards (web or desktop) and device integrations  
-- Finance/sports analytics where **explainability** matters
+###  Background
+Senior Systems Administrator, financial services (current)
+Systems Administrator, Jack Henry & Associates (2022–2025)
+Cyber Systems Administrator, USMC (2010–2015)
 
 ---
 
-###  Ask Me About
-- Python scripting, packaging, and “small tools that stick”  
-- Designing **trustworthy backtests**  
-- Raspberry Pi services & hardware integrations  
-- Privacy-respecting workflows (VPNs, keys, wallets)
+###  Stack I actually work with
+Infrastructure: VMware vSphere · Dell PowerFlex · Dell Data Domain · Veeam · Active Directory · Windows Server · Linux
+Cloud (in progress): AWS · Terraform · Docker · S3 · RDS · Lambda · ECS
+Scripting: Python · PowerShell · Bash
 
 ###  Reach Out
 -  [Email me](mailto:william.e.rileyjr@gmail.com)
