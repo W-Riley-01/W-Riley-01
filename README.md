@@ -4,28 +4,28 @@ Senior systems administrator with 15 years across enterprise infrastructure, sto
 
 ---
 
-###  What I’m Building (work-facing)
+What I’m Building (work-facing)
 mlb-engine-aws — Migrating a production Streamlit analytics app off Streamlit Cloud and Supabase, onto AWS (S3, RDS PostgreSQL, ECS Fargate, Lambda). All infrastructure as code via Terraform. Studying for AWS Solutions Architect Associate as a side effect. (in progress)
 lb-market-engine — The application being migrated. Monte Carlo simulation of MLB player props with weather-adjusted physics modeling. Live at moneyloser.streamlit.app.
 Ops tooling and automation — PowerShell and Python scripts for infrastructure work: inventory collection, backup validation, patch orchestration.
 
 ---
 
-###  Currently Learning
+Currently Learning
 AWS Solutions Architect Associate (SAA-C03) — target sit date Q3 2026
 Terraform for production infrastructure
 Container orchestration on ECS Fargate
 
 ---
 
-###  Background
+Background
 Senior Systems Administrator, financial services (current)
 Systems Administrator, Jack Henry & Associates (2022–2025)
 Cyber Systems Administrator, USMC (2010–2015)
 
 ---
 
-###  Stack I actually work with
+Stack I actually work with
 Infrastructure: VMware vSphere · Dell PowerFlex · Dell Data Domain · Veeam · Active Directory · Windows Server · Linux
 Cloud (in progress): AWS · Terraform · Docker · S3 · RDS · Lambda · ECS
 Scripting: Python · PowerShell · Bash
