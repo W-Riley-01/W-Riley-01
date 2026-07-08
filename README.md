@@ -18,13 +18,6 @@ Container orchestration on ECS Fargate
 
 ---
 
-Background
-Senior Systems Administrator, financial services (current)
-Systems Administrator, Jack Henry & Associates (2022–2025)
-Cyber Systems Administrator, USMC (2010–2015)
-
----
-
 Stack I actually work with
 Infrastructure: VMware vSphere · Dell PowerFlex · Dell Data Domain · Veeam · Active Directory · Windows Server · Linux
 Cloud (in progress): AWS · Terraform · Docker · S3 · RDS · Lambda · ECS
