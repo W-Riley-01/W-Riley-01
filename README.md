@@ -1,32 +1,43 @@
-## Hi, I'm William
+Senior systems administrator with 15 years across enterprise infrastructure,
+storage, and data protection, currently pivoting into data architecture.
 
-Senior systems administrator with 15 years across enterprise infrastructure, storage, and data protection. Currently pivoting into data architecture by migrating a personal analytics platform onto AWS in public, one weekend at a time.
+## What I'm Building
 
----
+**[MLB Market Engine](https://github.com/W-Riley-01/mlb-market-engine)** —
+a Monte Carlo simulation engine for MLB game and player predictions, with
+weather adjusted physics modeling. Migrated off Streamlit Cloud + Supabase
+onto a fully self-managed AWS stack (S3, RDS PostgreSQL, ECS Fargate,
+EventBridge Scheduler, Secrets Manager), all infrastructure as code via
+Terraform. Live and running in production, generating predictions on a
+schedule and tracking them against real outcomes.
 
-What I’m Building
+- **Live app:** [app.diamondmetrics.dev](https://app.diamondmetrics.dev)
+- **App code:** [`mlb-market-engine`](https://github.com/W-Riley-01/mlb-market-engine)
+- **Infrastructure:** [`mlb-engine-aws`](https://github.com/W-Riley-01/mlb-engine-aws)
 
-Migrating a production Streamlit analytics app off Streamlit Cloud and Supabase, onto AWS (S3, RDS PostgreSQL, ECS Fargate, Lambda). All infrastructure as code via Terraform. Studying for AWS Data Engineer Associate as a side effect.
-Monte Carlo simulation of MLB player props with weather-adjusted physics modeling. Live at [(https://app.diamondmetrics.dev/).](https://app.diamondmetrics.dev/)
-Ops tooling and automation. PowerShell and Python scripts for infrastructure work: inventory collection, backup validation, patch orchestration.
+**Ops tooling and automation** — PowerShell and Python scripts for
+infrastructure work: inventory collection, backup validation, patch
+orchestration.
 
----
+## Currently Learning
 
-Currently Learning
-AWS Solutions Data Engineer 
-Terraform for production infrastructure
-Container orchestration on ECS Fargate
+- Terraform, beyond initial buildout with deeper module design and state
+  management patterns
+- AWS Certified Data Engineer
 
----
+## Stack I Actually Work With
 
-Stack I actually work with
-Infrastructure: VMware vSphere · Dell PowerFlex · Dell Data Domain · Veeam · Active Directory · Windows Server · Linux
-Cloud · AWS · Terraform · Docker · S3 · RDS · Lambda · ECS
-Scripting: Python · PowerShell · Bash
+**Infrastructure:** VMware vSphere · Dell PowerFlex · Dell Data Domain ·
+Veeam · Active Directory · Windows Server · Linux
 
-###  Reach Out
--  [Email me](mailto:william.e.rileyjr@gmail.com)
-- [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/W-Riley-01)
+**Cloud:** AWS (S3, RDS, ECS Fargate, EventBridge, Secrets Manager,
+CloudWatch) · Terraform · Docker · GitHub Actions
+
+**Scripting:** Python · PowerShell · Bash
+
+## Reach Out
+
+- [Email](mailto:william.e.rileyjr@gmail.com)
 
 ---
 
