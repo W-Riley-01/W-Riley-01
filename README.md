@@ -5,14 +5,14 @@ Senior systems administrator with 15 years across enterprise infrastructure, sto
 ---
 
 What I’m Building
-Migrating a production Streamlit analytics app off Streamlit Cloud and Supabase, onto AWS (S3, RDS PostgreSQL, ECS Fargate, Lambda). All infrastructure as code via Terraform. Studying for AWS Solutions Architect Associate as a side effect. (in progress)
-Montte Carlo simulation of MLB player props with weather-adjusted physics modeling. Live at moneyloser.streamlit.app.
+Migrating a production Streamlit analytics app off Streamlit Cloud and Supabase, onto AWS (S3, RDS PostgreSQL, ECS Fargate, Lambda). All infrastructure as code via Terraform. Studying for AWS Solutions Architect Associate as a side effect.
+Montte Carlo simulation of MLB player props with weather-adjusted physics modeling. Live at [(https://app.diamondmetrics.dev/).](https://app.diamondmetrics.dev/)
 Ops tooling and automation. PowerShell and Python scripts for infrastructure work: inventory collection, backup validation, patch orchestration.
 
 ---
 
 Currently Learning
-AWS Solutions Architect Associate (SAA-C03) — target sit date Q3 2026
+AWS Solutions Data Engineer 
 Terraform for production infrastructure
 Container orchestration on ECS Fargate
 
@@ -20,7 +20,7 @@ Container orchestration on ECS Fargate
 
 Stack I actually work with
 Infrastructure: VMware vSphere · Dell PowerFlex · Dell Data Domain · Veeam · Active Directory · Windows Server · Linux
-Cloud (in progress): AWS · Terraform · Docker · S3 · RDS · Lambda · ECS
+Cloud · AWS · Terraform · Docker · S3 · RDS · Lambda · ECS
 Scripting: Python · PowerShell · Bash
 
 ###  Reach Out
