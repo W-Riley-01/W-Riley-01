@@ -5,6 +5,7 @@ Senior systems administrator with 15 years across enterprise infrastructure, sto
 ---
 
 What I’m Building
+
 Migrating a production Streamlit analytics app off Streamlit Cloud and Supabase, onto AWS (S3, RDS PostgreSQL, ECS Fargate, Lambda). All infrastructure as code via Terraform. Studying for AWS Data Engineer Associate as a side effect.
 Monte Carlo simulation of MLB player props with weather-adjusted physics modeling. Live at [(https://app.diamondmetrics.dev/).](https://app.diamondmetrics.dev/)
 Ops tooling and automation. PowerShell and Python scripts for infrastructure work: inventory collection, backup validation, patch orchestration.
