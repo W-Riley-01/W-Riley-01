@@ -1,6 +1,6 @@
 ## Hi, I'm William
 
-Senior systems administrator with 15 years across enterprise infrastructure, storage, and data protection. Currently pivoting into cloud engineering by migrating a personal analytics platform onto AWS in public, one weekend at a time.
+Senior systems administrator with 15 years across enterprise infrastructure, storage, and data protection. Currently pivoting into data architecture by migrating a personal analytics platform onto AWS in public, one weekend at a time.
 
 ---
 
