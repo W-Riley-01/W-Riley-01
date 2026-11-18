@@ -11,7 +11,7 @@ EventBridge Scheduler, Secrets Manager), all infrastructure as code via
 Terraform. Live and running in production, generating predictions on a
 schedule and tracking them against real outcomes.
 
-- **Live app:** [app.diamondmetrics.dev](https://app.diamondmetrics.dev)
+- **Live app:** [app.diamondmetrics.dev](https://diamondmetrics.dev)
 - **App code:** [`mlb-market-engine`](https://github.com/W-Riley-01/mlb-market-engine)
 - **Infrastructure:** [`mlb-engine-aws`](https://github.com/W-Riley-01/mlb-engine-aws)
 
